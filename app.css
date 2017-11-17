@@ -1,0 +1,47 @@
+body{
+    background-color: rgba(58,64,90,1);
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+h1 {
+    color: rgba(148,232,180,1);
+    font-size: 50px;
+    font-family: 'Righteous', cursive;
+}
+h2 {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: rgba(126,101,91,1);
+}
+.thing {
+    font-family: 'Indie Flower', cursive;
+}
+p {
+    font-family: 'Indie Flower', cursive;
+}
+img {
+    margin: 40px 0px 0px 0px;
+    border: 7px solid rgba(148,232,180,1);
+    border-radius: 20px;
+}
+header {
+    background: url(images/sky.jpg);
+    text-align: center;
+	background-size: cover;
+	padding:20px 0px 0px 0px
+}
+a {
+    text-align: center;
+    color: rgba(148,232,180,1);
+    font-size: 30px
+}
+ul, li {
+    padding: 10px;
+    display: inline;
+    text-align: center;
+    padding: 0px 10px 0px 10px;
+}
