@@ -9,10 +9,11 @@ body{
 }
 h1 {
     color: rgba(148,232,180,1);
-    font-size: 50px;
+    font-size: 75px;
     font-family: 'Righteous', cursive;
 }
 h2 {
+    font-size: 34px;
     text-align: center;
     font-family: 'Pacifico', cursive;
     color: rgba(126,101,91,1);
