@@ -21,7 +21,11 @@ h2 {
 .thing {
     font-family: 'Indie Flower', cursive;
 }
-p {
+p {	
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
     font-size: 20px;
     font-family: 'Indie Flower', cursive;
 }
