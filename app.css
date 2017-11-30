@@ -20,6 +20,8 @@ h2 {
 }
 .thing {
     font-family: 'Indie Flower', cursive;
+    margin-right: 500px;
+    margin-left: 500px;
 }
 p {
     margin-right: 500px;
