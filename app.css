@@ -19,6 +19,7 @@ h2 {
     color: rgba(126,101,91,1);
 }
 .thing {
+    text-align: center;
     font-family: 'Indie Flower', cursive;
     margin-right: 500px;
     margin-left: 500px;
